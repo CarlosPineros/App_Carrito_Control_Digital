@@ -60,6 +60,13 @@ flutter run
 5. Controla el carrito desde la pantalla de pulsos.
 
 📸 Capturas de pantalla
+![image](https://github.com/user-attachments/assets/9f061d8c-d584-496a-939e-e0e3efa805d1)
+
+![image](https://github.com/user-attachments/assets/eaa75c51-3faf-4601-baaf-082738ca065a)
+
+![image](https://github.com/user-attachments/assets/2fd24dc1-c3ed-4e17-bc90-d8f038b765ae)
+
+
 
 
 
